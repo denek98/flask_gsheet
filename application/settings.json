@@ -1,0 +1,8 @@
+{
+  "gsheet_settings": {
+    "creds_file_name": "google_creds.json",
+    "sheet_url": "https://docs.google.com/spreadsheets/d/1gx_-DDXtMiFP7oMz98wTWPxsmwENmDOAHGFCGal0sdY/edit#gid=0",
+    "input_sheet_name": "Input",
+    "output_sheet_name": "Output"
+  }
+}
